@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Rafik-Alarousi/ProjectPortfolio)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://rafik-alarousi.github.io/)**
 
 - 📫 How to reach me **rafik.alarousi@gmail.com**
 
